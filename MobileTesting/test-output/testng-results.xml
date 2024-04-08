@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T11:54:49 IST" name="Default suite" finished-at="2024-04-04T11:57:12 IST" duration-ms="142889">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T11:54:49 IST" name="Default test" finished-at="2024-04-04T11:57:12 IST" duration-ms="142889">
+      <class name="WebApp.WebApp">
+        <test-method is-config="true" signature="bt()[pri:0, instance:WebApp.WebApp@342c38f8]" started-at="2024-04-04T11:54:49 IST" name="bt" finished-at="2024-04-04T11:55:36 IST" duration-ms="47292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="webDemo()[pri:0, instance:WebApp.WebApp@342c38f8]" started-at="2024-04-04T11:55:37 IST" name="webDemo" finished-at="2024-04-04T11:57:12 IST" duration-ms="95517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDemo -->
+      </class> <!-- WebApp.WebApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
